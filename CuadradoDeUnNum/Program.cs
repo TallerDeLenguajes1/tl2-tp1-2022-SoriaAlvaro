@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TrabajoPracticoUno {
+namespace ProblemaUno {
     class Program {
         static void Main(String[] args){
             System.Console.WriteLine("Cuadrado de un numero\n");
